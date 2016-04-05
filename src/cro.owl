@@ -47,6 +47,7 @@ Declaration(Class(:CRO_0000029))
 
 # Class: :CRO_0000000 (Contribution Role)
 
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> :CRO_0000000 "A high-level classification of the diverse roles performed in the work leading to a published research output in the sciences. Its purpose to provide transparency in contributions to scholarly published work, to enable improved systems of attribution, credit, and accountability.")
 AnnotationAssertion(rdfs:label :CRO_0000000 "Contribution Role")
 SubClassOf(:CRO_0000000 <http://purl.obolibrary.org/obo/BFO_0000023>)
 
