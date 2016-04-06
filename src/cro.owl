@@ -133,6 +133,7 @@
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/cro.owl#CRO_0000009">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/cro.owl#CRO_0000000"/>
         <obo:IAO_0000115>Management and coordination responsibility for the research activity planning and execution.</obo:IAO_0000115>
+        <obo:IAO_0000118>Project Administrator Role</obo:IAO_0000118>
         <obo:IAO_0000119>http://dictionary.casrai.org/Contributor_Roles/Project_administration</obo:IAO_0000119>
         <rdfs:label>Project Management Role</rdfs:label>
     </owl:Class>
@@ -373,6 +374,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/cro.owl#CRO_0000033">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/cro.owl#CRO_0000005"/>
+        <obo:IAO_0000118>Data Scrubbing Role</obo:IAO_0000118>
         <rdfs:label>Data Quality Assurance Role</rdfs:label>
     </owl:Class>
     
@@ -391,6 +393,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/cro.owl#CRO_0000035">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/cro.owl#CRO_0000005"/>
+        <obo:IAO_0000115>Development of ontology, terminology, code lists, etc.</obo:IAO_0000115>
         <rdfs:label>Data Standards Developer Role</rdfs:label>
     </owl:Class>
     
@@ -418,6 +421,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/cro.owl#CRO_0000038">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/cro.owl#CRO_0000008"/>
+        <obo:IAO_0000118>Best Practices Role</obo:IAO_0000118>
         <rdfs:label>Guideline Development Role</rdfs:label>
     </owl:Class>
     
@@ -532,6 +536,7 @@
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/cro.owl#CRO_0000050">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/cro.owl#CRO_0000015"/>
         <obo:IAO_0000115>Verification that software meets requirements; validation that software meets users&apos; needs, identification of software bugs, assessment of software performance and usability.</obo:IAO_0000115>
+        <obo:IAO_0000118>Software Quality Assurance Role</obo:IAO_0000118>
         <rdfs:label>Software Testing Role</rdfs:label>
     </owl:Class>
     
@@ -562,6 +567,7 @@
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/cro.owl#CRO_0000053">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/cro.owl#CRO_0000015"/>
         <obo:IAO_0000115>Creation of software documentation.</obo:IAO_0000115>
+        <obo:IAO_0000118>Software Documentation Role</obo:IAO_0000118>
         <rdfs:label>Technical Writing Role</rdfs:label>
     </owl:Class>
     
