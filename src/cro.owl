@@ -185,6 +185,7 @@
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/cro.owl#CRO_0000014">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/cro.owl#CRO_0000000"/>
         <obo:IAO_0000115>Coordination of research dissemination through popular media and the press, as well as Community Outreach and liaising of project directly to the community.</obo:IAO_0000115>
+        <obo:IAO_0000116>Similar to vivo:OutreachProviderRole?</obo:IAO_0000116>
         <rdfs:label>Communication Role</rdfs:label>
     </owl:Class>
     
@@ -623,6 +624,97 @@
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/cro.owl#CRO_0000059">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/cro.owl#CRO_0000054"/>
         <rdfs:label>Database Administrator Role</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/cro.owl#CRO_0000060 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/cro.owl#CRO_0000060">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/cro.owl#CRO_0000000"/>
+        <rdfs:label>Research Instrumentation Role</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/cro.owl#CRO_0000061 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/cro.owl#CRO_0000061">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/cro.owl#CRO_0000000"/>
+        <rdfs:label>Educational Role</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/cro.owl#CRO_0000062 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/cro.owl#CRO_0000062">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/cro.owl#CRO_0000000"/>
+        <rdfs:label>Intellectual Property Advisor Role</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/cro.owl#CRO_0000063 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/cro.owl#CRO_0000063">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/cro.owl#CRO_0000061"/>
+        <rdfs:label>Educational Program Development Role</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/cro.owl#CRO_0000064 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/cro.owl#CRO_0000064">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/cro.owl#CRO_0000061"/>
+        <rdfs:label>Educational Material Development Role</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/cro.owl#CRO_0000065 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/cro.owl#CRO_0000065">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/cro.owl#CRO_0000061"/>
+        <obo:IAO_0000116>This may be equivalent to vivo:Teacher Role</obo:IAO_0000116>
+        <rdfs:label>Teaching Role</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/cro.owl#CRO_0000066 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/cro.owl#CRO_0000066">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/cro.owl#CRO_0000060"/>
+        <rdfs:label>Device Development Role</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/cro.owl#CRO_0000067 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/cro.owl#CRO_0000067">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/cro.owl#CRO_0000060"/>
+        <rdfs:label>Equipment Technician Role</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/cro.owl#CRO_0000068 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/cro.owl#CRO_0000068">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/cro.owl#CRO_0000060"/>
+        <rdfs:label>Survey and Questionnaire Role</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/cro.owl#CRO_0000069 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/cro.owl#CRO_0000069">
+        <rdfs:subClassOf rdf:resource="http://vivoweb.org/ontology/core#Relationship"/>
+        <rdfs:label>Contributorship</rdfs:label>
     </owl:Class>
 </rdf:RDF>
 
