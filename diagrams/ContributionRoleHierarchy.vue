@@ -1,7 +1,7 @@
 <!-- Tufts VUE 3.3.0 concept-map (ContributionRoleHierarchy.vue) 2016-04-11 -->
 <!-- Tufts VUE: http://vue.tufts.edu/ -->
 <!-- Do Not Remove: VUE mapping @version(1.1) jar:file:/Applications/VUE.app/Contents/Resources/Java/VUE.jar!/tufts/vue/resources/lw_mapping_1_1.xml -->
-<!-- Do Not Remove: Saved date Mon Apr 11 15:53:30 PDT 2016 by whimar on platform Mac OS X 10.11.4 in JVM 1.8.0_74-b02 -->
+<!-- Do Not Remove: Saved date Mon Apr 11 15:55:51 PDT 2016 by whimar on platform Mac OS X 10.11.4 in JVM 1.8.0_74-b02 -->
 <!-- Do Not Remove: Saving version @(#)VUE: built October 8 2015 at 1658 by tomadm on Linux 2.6.32-504.23.4.el6.x86_64 i386 JVM 1.7.0_21-b11(bits=32) -->
 <?xml version="1.0" encoding="US-ASCII"?>
 <LW-MAP xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
@@ -9,7 +9,7 @@
     label="ContributionRoleHierarchy.vue" created="1459892098597"
     x="0.0" y="0.0" width="848.91266" height="1272.3625"
     strokeWidth="0.0" autoSized="false">
-    <resource referenceCreated="1460415210110" size="57929"
+    <resource referenceCreated="1460415351468" size="58328"
         spec="/Users/whimar/git/contribution-ontology/diagrams/ContributionRoleHierarchy.vue"
         type="1" xsi:type="URLResource">
         <title>ContributionRoleHierarchy.vue</title>
@@ -63,16 +63,16 @@
         <URIString>http://vue.tufts.edu/rdf/resource/e86ba93a0afa2957013830c9c012532f</URIString>
         <shape arcwidth="20.0" archeight="20.0" xsi:type="roundRect"/>
     </child>
-    <child ID="12" label="Work (Figshare Outputs)" layerID="1"
-        created="1459892333221" x="888.5536" y="427.58362" width="171.0"
-        height="200.5" strokeWidth="1.0" autoSized="true" xsi:type="node">
+    <child ID="12" label="Figshare Outputs&#xa;(Not a Class)"
+        layerID="1" created="1459892333221" x="888.5536" y="427.58362"
+        width="159.75" height="214.5" strokeWidth="1.0" autoSized="true" xsi:type="node">
         <fillColor>#D0D0D0</fillColor>
         <strokeColor>#000000</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-12</font>
         <URIString>http://vue.tufts.edu/rdf/resource/e86ba93b0afa2957013830c98ae624b7</URIString>
         <child ID="110" label="bibo:Image" created="1460411588460"
-            x="34.0" y="22.0" width="72.0" height="22.0"
+            x="34.0" y="36.0" width="72.0" height="22.0"
             strokeWidth="1.0" autoSized="true" xsi:type="node">
             <fillColor>#FEFD8C</fillColor>
             <strokeColor>#000000</strokeColor>
@@ -82,7 +82,7 @@
             <shape arcwidth="20.0" archeight="20.0" xsi:type="roundRect"/>
         </child>
         <child ID="111" label="bibo:AudioVisualDocument"
-            created="1460411710119" x="34.0" y="41.5" width="160.0"
+            created="1460411710119" x="34.0" y="55.5" width="160.0"
             height="22.0" strokeWidth="1.0" autoSized="true" xsi:type="node">
             <fillColor>#FEFD8C</fillColor>
             <strokeColor>#000000</strokeColor>
@@ -92,7 +92,7 @@
             <shape arcwidth="20.0" archeight="20.0" xsi:type="roundRect"/>
         </child>
         <child ID="112" label="vivo:Dataset" created="1460411716352"
-            x="34.0" y="61.0" width="78.0" height="22.0"
+            x="34.0" y="75.0" width="78.0" height="22.0"
             strokeWidth="1.0" autoSized="true" xsi:type="node">
             <fillColor>#83CEFF</fillColor>
             <strokeColor>#000000</strokeColor>
@@ -102,7 +102,7 @@
             <shape arcwidth="20.0" archeight="20.0" xsi:type="roundRect"/>
         </child>
         <child ID="113" label="bibo:Collection" created="1460411721017"
-            x="34.0" y="80.5" width="93.0" height="22.0"
+            x="34.0" y="94.5" width="93.0" height="22.0"
             strokeWidth="1.0" autoSized="true" xsi:type="node">
             <fillColor>#FEFD8C</fillColor>
             <strokeColor>#000000</strokeColor>
@@ -112,7 +112,7 @@
             <shape arcwidth="20.0" archeight="20.0" xsi:type="roundRect"/>
         </child>
         <child ID="114" label="vivo:ConferencePoster"
-            created="1460411727593" x="34.0" y="100.0" width="135.0"
+            created="1460411727593" x="34.0" y="114.0" width="135.0"
             height="22.0" strokeWidth="1.0" autoSized="true" xsi:type="node">
             <fillColor>#83CEFF</fillColor>
             <strokeColor>#000000</strokeColor>
@@ -122,7 +122,7 @@
             <shape arcwidth="20.0" archeight="20.0" xsi:type="roundRect"/>
         </child>
         <child ID="115" label="vivo:ConferencePaper"
-            created="1460411734377" x="34.0" y="119.5" width="133.0"
+            created="1460411734377" x="34.0" y="133.5" width="133.0"
             height="22.0" strokeWidth="1.0" autoSized="true" xsi:type="node">
             <fillColor>#83CEFF</fillColor>
             <strokeColor>#000000</strokeColor>
@@ -132,7 +132,7 @@
             <shape arcwidth="20.0" archeight="20.0" xsi:type="roundRect"/>
         </child>
         <child ID="116" label="bibo:Slideshow" created="1460411741439"
-            x="34.0" y="139.0" width="95.0" height="22.0"
+            x="34.0" y="153.0" width="95.0" height="22.0"
             strokeWidth="1.0" autoSized="true" xsi:type="node">
             <fillColor>#FEFD8C</fillColor>
             <strokeColor>#000000</strokeColor>
@@ -142,7 +142,7 @@
             <shape arcwidth="20.0" archeight="20.0" xsi:type="roundRect"/>
         </child>
         <child ID="117" label="bibo:Thesis" created="1460411748725"
-            x="34.0" y="158.5" width="74.0" height="22.0"
+            x="34.0" y="172.5" width="74.0" height="22.0"
             strokeWidth="1.0" autoSized="true" xsi:type="node">
             <fillColor>#FEFD8C</fillColor>
             <strokeColor>#000000</strokeColor>
@@ -152,9 +152,9 @@
             <shape arcwidth="20.0" archeight="20.0" xsi:type="roundRect"/>
         </child>
         <child ID="118" label="obo:Software " created="1460411753487"
-            x="34.0" y="178.0" width="86.0" height="22.0"
+            x="34.0" y="192.0" width="86.0" height="22.0"
             strokeWidth="1.0" autoSized="true" xsi:type="node">
-            <fillColor>#D0D0D0</fillColor>
+            <fillColor>#C1C1FF</fillColor>
             <strokeColor>#000000</strokeColor>
             <textColor>#000000</textColor>
             <font>Arial-plain-12</font>
@@ -868,8 +868,8 @@
         </child>
         <shape arcwidth="20.0" archeight="20.0" xsi:type="roundRect"/>
     </child>
-    <child ID="19" label="vivo:relates&#xa;(one or more)" layerID="1"
-        created="1459892916869" x="572.7052" y="362.8789" width="67.0"
+    <child ID="19" label="vivo:relates" layerID="1"
+        created="1459892916869" x="577.7052" y="362.8789" width="57.0"
         height="65.203125" strokeWidth="1.0" autoSized="false"
         controlCount="0" arrowState="2" xsi:type="link">
         <strokeColor>#404040</strokeColor>
@@ -881,7 +881,7 @@
         <ID1 xsi:type="node">8</ID1>
         <ID2 xsi:type="node">16</ID2>
     </child>
-    <child ID="26" label="obo:bearer_of&#xa;(one or more)" layerID="1"
+    <child ID="26" label="obo:bearer_of" layerID="1"
         created="1459893194584" x="240.25224" y="450.08362"
         width="254.17476" height="465.70544" strokeWidth="1.0"
         autoSized="false" controlCount="1" arrowState="2" xsi:type="link">
@@ -911,14 +911,14 @@
     </child>
     <child ID="119" label="vivo:relates" layerID="1"
         created="1460412531345" x="664.916" y="354.1765"
-        width="224.13757" height="161.53351" strokeWidth="1.0"
+        width="224.13757" height="166.76367" strokeWidth="1.0"
         autoSized="false" controlCount="2" arrowState="2" xsi:type="link">
         <strokeColor>#404040</strokeColor>
         <textColor>#404040</textColor>
         <font>Arial-plain-11</font>
         <URIString>http://vue.tufts.edu/rdf/resource/07620a120a0001196a47dc0d0098acf9</URIString>
         <point1 x="665.416" y="354.6765"/>
-        <point2 x="888.5536" y="515.21"/>
+        <point2 x="888.5536" y="520.4402"/>
         <ID1 xsi:type="node">8</ID1>
         <ID2 xsi:type="node">12</ID2>
         <ctrlPoint0 x="791.60455" y="362.68842" xsi:type="point"/>
@@ -943,8 +943,8 @@
         y="0.0" width="1.4E-45" height="1.4E-45" strokeWidth="0.0" autoSized="false">
         <URIString>http://vue.tufts.edu/rdf/resource/e86ba9450afa2957013830c9b9942a15</URIString>
     </layer>
-    <userZoom>0.8037445987106038</userZoom>
-    <userOrigin x="-425.84073" y="200.15019"/>
+    <userZoom>1.5</userZoom>
+    <userOrigin x="-102.29703" y="393.92535"/>
     <presentationBackground>#202020</presentationBackground>
     <PathwayList currentPathway="0" revealerIndex="-1">
         <pathway ID="0" label="Untitled Pathway" created="1459892098595"
