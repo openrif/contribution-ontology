@@ -1,7 +1,7 @@
 <!-- Tufts VUE 3.3.0 concept-map (ContributionRoleHierarchy_v3_2019-01-17.vue) 2019-01-17 -->
 <!-- Tufts VUE: http://vue.tufts.edu/ -->
 <!-- Do Not Remove: VUE mapping @version(1.1) jar:file:/Applications/VUE.app/Contents/Resources/Java/VUE.jar!/tufts/vue/resources/lw_mapping_1_1.xml -->
-<!-- Do Not Remove: Saved date Thu Jan 17 11:42:37 PST 2019 by vasilevs on platform Mac OS X 10.11.6 in JVM 1.8.0_144-b01 -->
+<!-- Do Not Remove: Saved date Thu Jan 17 11:46:02 PST 2019 by vasilevs on platform Mac OS X 10.11.6 in JVM 1.8.0_144-b01 -->
 <!-- Do Not Remove: Saving version @(#)VUE: built October 8 2015 at 1658 by tomadm on Linux 2.6.32-504.23.4.el6.x86_64 i386 JVM 1.7.0_21-b11(bits=32) -->
 <?xml version="1.0" encoding="US-ASCII"?>
 <LW-MAP xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
@@ -9,7 +9,7 @@
     label="ContributionRoleHierarchy_v3_2019-01-17.vue"
     created="1459892098597" x="0.0" y="0.0" width="736.12646"
     height="1114.5156" strokeWidth="0.0" autoSized="false">
-    <resource referenceCreated="1547754157310"
+    <resource referenceCreated="1547754362549" size="99971"
         spec="/Users/vasilevs/git/contribution-ontology/diagrams/ContributionRoleHierarchy_v3_2019-01-17.vue"
         type="1" xsi:type="URLResource">
         <title>ContributionRoleHierarchy_v3_2019-01-17.vue</title>
@@ -519,7 +519,7 @@
         height="1472.4531" strokeWidth="1.0" autoSized="true" xsi:type="node">
         <fillColor>#086096</fillColor>
         <strokeColor>#000000</strokeColor>
-        <textColor>#000000</textColor>
+        <textColor>#FFFFFF</textColor>
         <font>Arial-plain-12</font>
         <URIString>http://vue.tufts.edu/rdf/resource/e86ba93d0afa2957013830c9552f254e</URIString>
         <child ID="20" label="CRO:0000001 Author role"
@@ -1673,8 +1673,8 @@
         y="0.0" width="1.4E-45" height="1.4E-45" strokeWidth="0.0" autoSized="false">
         <URIString>http://vue.tufts.edu/rdf/resource/e86ba9450afa2957013830c9b9942a15</URIString>
     </layer>
-    <userZoom>0.5</userZoom>
-    <userOrigin x="-618.59973" y="18.332916"/>
+    <userZoom>1.0</userZoom>
+    <userOrigin x="-551.69946" y="376.16583"/>
     <presentationBackground>#202020</presentationBackground>
     <PathwayList currentPathway="0" revealerIndex="-1">
         <pathway ID="0" label="Untitled Pathway" created="1459892098595"
